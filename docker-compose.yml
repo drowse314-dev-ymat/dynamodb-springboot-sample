@@ -1,0 +1,6 @@
+version: '2'
+services:
+    dynamodb:
+        build: ./docker/dynamodb
+        ports:
+            - "8000:8000"

@@ -1,0 +1,7 @@
+aws:
+    accessKey: ''
+    secretKey: ''
+
+dynamodb:
+    region: AP_NORTHEAST_1
+    endpoint: "http://0.0.0.0:8000"
